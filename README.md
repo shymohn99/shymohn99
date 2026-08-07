@@ -20,8 +20,8 @@ I explore mathematics, physics, and algorithms through software.
 
 ## Curious about / 興味
 
-- Mathematics, physics, and algorithms / 数学・物理・アルゴリズム
-- Scientific visualization / 科学的可視化
-- Making complex ideas interactive / 複雑な概念のインタラクティブ化
+- 組合せゲーム理論 / Combinatorial Game Theory
+- 原子力科学 / Nuclear Science
+- ヒューリスティック / Heuristics
 
 [Portfolio](https://shymohn99.github.io/portfolio/) · [X](https://x.com/Shymohn) · [Repositories](https://github.com/shymohn99?tab=repositories)
