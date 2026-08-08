@@ -1,6 +1,6 @@
 # Shymohn
 
-数学・物理・アルゴリズムを、ソフトウェアを通して探究しています。  
+数学・物理が好きです
 I explore mathematics, physics, and algorithms through software.
 
 ## Achievements / 実績
