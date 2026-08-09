@@ -5,8 +5,7 @@ I explore mathematics, physics, and algorithms through software.
 
 ## Achievements / 実績
 
-- 第3回国際原子力科学オリンピック（INSO 2026）日本代表  
-  Japan Representative, 3rd International Nuclear Science Olympiad
+- 🥇 Gold Medalist at the International Nuclear Science Olympiad (INSO) 2026 — Team Japan
 - 広島県科学オリンピック 銀賞 / Hiroshima Science Olympiad — Silver Medal
 - AtCoder Junior League ヒューリスティック部門 準優勝  
   Runner-up, AtCoder Junior League Heuristic Division
